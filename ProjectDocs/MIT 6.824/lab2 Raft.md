@@ -27,6 +27,7 @@ commit与applied
 
 ## lab2C 日志压缩
 
+什么时候发送InstallSnapshot同步快照？
 
 ## 测试
 ```
