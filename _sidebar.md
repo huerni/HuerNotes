@@ -3,4 +3,4 @@
 - 青训营笔记
   - [Go语言入门](/ProjectDocs/青训营笔记/Go语言.md)
   - [存储&数据库](/ProjectDocs/青训营笔记/存储&数据库.md)
-
+- [工具安装笔记](/ProjectDocs/工具安装笔记.md)
