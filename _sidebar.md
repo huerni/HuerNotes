@@ -3,4 +3,5 @@
 - 青训营笔记
   - [Go语言入门](/ProjectDocs/青训营笔记/Go语言.md)
   - [存储&数据库](/ProjectDocs/青训营笔记/存储&数据库.md)
+  - [HTTP框架修炼之道](/ProjectDocs/%E9%9D%92%E8%AE%AD%E8%90%A5%E7%AC%94%E8%AE%B0/HTTP%E6%A1%86%E6%9E%B6%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.md)
 - [工具安装笔记](/ProjectDocs/工具安装笔记.md)
