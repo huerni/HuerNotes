@@ -110,3 +110,6 @@ Map[string(Method)]前缀树
 
 * 针对协议的优化：header解析，热点资源优化
 > SIMD技术进行header解析
+
+参考资料：
+https://juejin.cn/course/bytetech/7142811324462923783/section/7142810214532644872
